@@ -1,0 +1,59 @@
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi página web</title>
+</head>
+
+<body>
+
+    <BODY BACKGROUND="images/fondo 1.jpg" TEXT="black" LINK="GREEN" VLINK="ORANGE" SIZE="12">
+        <MARQUEE BGCOLOR="#bdbdbd" LOOP="INFINITE" WEIGHT="100" HIGHT="6" DIRECTION="LEFT">
+                <h1>Bienvenidos a mi página web</h1>            
+        </MARQUEE>
+    </body>
+
+</body><font color="white">
+<header>
+    <center>
+        <img src="images/perfil.jpg" alt="perfil" width="300" height="300">
+        <figcaption>fotografia tomada en el 2025</figcaption>
+        <h1>Jhonathan Steven Pulido Garzon</h1>
+        <nav>
+            <ul style="list-style-type: none">
+        
+        <li><a href="about.html">Acerca de mi.</a></li>
+        <li><a href="project.html">Proyecto</a></li>
+        <li><a href="contact.html">Contactos</a></li>
+        </ul>
+        </nav>
+    </center>
+</header>
+<main>
+    <center>
+        <h2>bienvenidos a mi página web</h2>
+
+        <article>Para compartir un poco de mi, soy un estudiante de ingenieria en sistemas de la universidad CUN,
+         tengo 23 años y trabajo en un call center, hace 7 meses tomé la maravillosa decision de casarme con 
+         una hermosa mujer; durante mi experiencia laboral he desarrollado varias habilidades y me considero
+         una persona amable y sensible. 
+        </article>
+        </center>
+        <p></p>
+        </main>
+        <footer>
+        <h3>Información de contacto:</h3>
+        <p><b>Email</b> <br> jhonathan.pulido@cun.edu.co 
+        <p><b>Telefono:</b> <br> 3009779913</p>
+        <p> <a href="https://www.facebook.com/jhonnathansteven.pulidogarzon">Facebook</a></p>
+        <p>&copy; 2025 Mi Sitio Web. Todos los derechos reservados.</p>
+        </footer>
+</font>
+
+
+    
+
+</body>
+
+</html>
